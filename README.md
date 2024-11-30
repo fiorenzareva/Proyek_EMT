@@ -1,17 +1,4 @@
-# Proyek EMT
-
-Repositori ini berisi file-file dokumentasi dan hasil akhir proyek EMT, termasuk:
-- File notebook asli (.ipynb)
-- Folder gambar (`Images/`)
-- File LaTeX (.tex)
-- File Markdown (.md)
-- File PDF hasil akhir (.pdf)
-
-## Link ke File Hasil Akhir
-[Unduh file PDF hasil akhir di sini](Proyek_EMT_Final.pdf)
-
-## Struktur Folder
-- `Proyek_EMT.ipynb`: File notebook asli.
-- `Images/`: Folder yang berisi gambar pendukung.
-- `Proyek_EMT.tex`: File LaTeX.
-- `Proyek_EMT_Final.pdf`: File hasil akhir.
+# EMT-AP
+## Belajar mengunakan LaTeX untuk pengelolaan dokumen - Fiorenza Rafa Talitha Sevandra (23030630051)
+## Berikut hasil kerja menggunakan Overleaf [EMT File.pdf](https://github.com/aandhrta/EMT-AP/files/13521782/EMT.File.pdf) dengan file EMT yang sudah diekstrak kebentuk TeX [EMT TeX.zip](https://github.com/aandhrta/EMT-AP/files/13521821/EMT.TeX.zip)
+## Berikut link Overleaf : [overleaf](https://www.overleaf.com/project/65695ddfba47c1f72d32b095)
