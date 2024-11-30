@@ -1,22 +1,17 @@
 # Proyek EMT
 
-Repositori ini berisi file-file dokumentasi dan hasil akhir dari proyek EMT. Tujuan utama repositori ini adalah untuk mendokumentasikan proses kerja, menyimpan hasil konversi dari notebook, dan menyediakan hasil akhir berupa file PDF.
+Repositori ini berisi file-file dokumentasi dan hasil akhir proyek EMT, termasuk:
+- File notebook asli (.ipynb)
+- Folder gambar (`Images/`)
+- File LaTeX (.tex)
+- File Markdown (.md)
+- File PDF hasil akhir (.pdf)
 
----
+## Link ke File Hasil Akhir
+[Unduh file PDF hasil akhir di sini](Proyek_EMT_Final.pdf)
 
-## **Isi Repositori**
-1. **File Notebook**: 
-   - File asli proyek dalam format `.ipynb` atau `.en` yang dapat dibuka dengan Jupyter Notebook.
-2. **Folder Gambar**:
-   - `Images/` berisi semua gambar yang digunakan dalam proyek.
-3. **File LaTeX (`.tex`)**: 
-   - Hasil konversi notebook ke format LaTeX.
-4. **File Markdown (`.md`)**: 
-   - Hasil konversi notebook ke format Markdown.
-5. **File PDF (`.pdf`)**: 
-   - Dokumen akhir hasil kompilasi.
-
----
-
-## **Struktur Folder**
-Berikut adalah struktur folder repositori:
+## Struktur Folder
+- `Proyek_EMT.ipynb`: File notebook asli.
+- `Images/`: Folder yang berisi gambar pendukung.
+- `Proyek_EMT.tex`: File LaTeX.
+- `Proyek_EMT_Final.pdf`: File hasil akhir.
